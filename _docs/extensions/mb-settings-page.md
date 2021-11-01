@@ -22,7 +22,7 @@ Screenshots:
 
 Creating a setting page is done by either of the following methods:
 
-- **Using Meta Box Builder extension**, which helps you creating settings pages with UI. This extension is already bundled in Meta Box AIO/MB Core.
+- **Using Meta Box Builder extension**, which helps you create settings pages with UI. This extension is already bundled in Meta Box AIO/MB Core.
 - **Using code**.
 
 ### Using Meta Box Builder
