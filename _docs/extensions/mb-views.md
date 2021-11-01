@@ -2,7 +2,7 @@
 title: MB Views - Creating WordPress templates without touching theme files
 ---
 
-MB Views helps you to get Meta Box fields and build your templates on the front end fast and easily.
+MB Views helps you to get Meta Box fields and build your templates in the front end fast and easily.
 
 With MB Views, you can just select fields you want to show, fill in some parameters and done! The extension supports all custom fields built with Meta Box, and also post fields (such as post title and post content), site settings, user fields, and even query fields.
 
