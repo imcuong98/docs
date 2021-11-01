@@ -1,5 +1,5 @@
 ---
-title: Color
+title: Color Picker
 ---
 
 ## Overview
