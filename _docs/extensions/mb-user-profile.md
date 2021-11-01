@@ -2,7 +2,7 @@
 title: MB User Profile
 ---
 
-MB User Profile helps you to add information to user profile and edit these details on the front end. It also includes register form, login form and edit profile form that you can embed anywhere using shortcodes.
+MB User Profile helps you to add information to user profile and edit these details in the front end. It also includes register form, login form and edit profile form that you can embed anywhere using shortcodes.
 
 ![user profile page](https://i.imgur.com/bqVnDDF.png)
 
