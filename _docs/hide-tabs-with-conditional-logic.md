@@ -6,7 +6,7 @@ Conditional Logic works with any DOM elements. That means you can hide your tabs
 
 ## Basic
 
-Because tabs isn't regular field or meta box so you have to use `rwmb_outside_conditions` filter to tell Conditional Logic to add this element. Imagine you have create a meta box like this:
+Because tabs aren't regular field or meta box so you have to use `rwmb_outside_conditions` filter to tell Conditional Logic to add this element. Imagine you have create a meta box like this:
 
 ```php
 add_filter( 'rwmb_meta_boxes', function($meta_boxes) {
