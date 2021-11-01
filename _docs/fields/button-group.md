@@ -40,7 +40,7 @@ array(
 
 ## Data
 
-This field saves value(s) in the database. If field is `multiple`, then each value is store in a single row in the database with the same meta key (similar to what `add_post_meta` does with last parameter `false`).
+This field saves value(s) in the database. If field is `multiple`, then each value is stored in a single row in the database with the same meta key (similar to what `add_post_meta` does with last parameter `false`).
 
 If the field is cloneable, then the value is stored as a serialized array in a single row in the database.
 
